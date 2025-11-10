@@ -20,7 +20,7 @@ I specialize in turning raw data into clear, meaningful visual stories using mod
 | **Data Visualization** | Power BI, Matplotlib, Seaborn |
 | **Programming** | Python (Pandas, NumPy) |
 | **Databases** | SQL, MySQL |
-| **Data Cleaning** | Excel, Power Query |
+| **Data Cleaning** | Advanced Excel, Power Query |
 | **Version Control** | Git, GitHub |
 | **Others** | Statistics, ETL Concepts, Data Modeling |
 
@@ -40,9 +40,9 @@ I specialize in turning raw data into clear, meaningful visual stories using mod
 ---
 
 ## 🌐 Connect With Me
-📧 **Email:** [your-email-here@gmail.com]  
-💼 **LinkedIn:** [linkedin.com/in/your-link-here](https://linkedin.com)  
-📊 **Portfolio:** *(Add later if you make one)*  
+📧 **Email:** [anjalikanojiya565@gmail.com]  
+💼 **LinkedIn:**(www.linkedin.com/in/anjali-kanojiya-72226729b) 
+📊 **Portfolio:**   
 
 ---
 
