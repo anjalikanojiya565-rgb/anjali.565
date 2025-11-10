@@ -1,2 +1,49 @@
-# anjali.565
-Professional portfolio showcasing data analysis, Power BI dashboards, and Python projects.
+# 👋 Hi, I'm Anjali Kanojiya
+
+🎯 **Data Analyst** passionate about uncovering insights and helping businesses make data-driven decisions.  
+I specialize in turning raw data into clear, meaningful visual stories using modern analytics tools.
+
+---
+
+## 🧠 About Me
+- 🔍 Skilled in **Power BI, Excel, Python, and SQL**
+- 📊 Experienced in **data cleaning, transformation, and visualization**
+- 🧩 Passionate about **business analytics and data storytelling**
+- 🌱 Currently learning **advanced Power BI & DAX functions**
+- 💬 Ask me about **creating interactive dashboards and automating reports**
+
+---
+
+## 🛠️ Tech Stack & Tools
+| Category | Tools |
+|-----------|-------|
+| **Data Visualization** | Power BI, Matplotlib, Seaborn |
+| **Programming** | Python (Pandas, NumPy) |
+| **Databases** | SQL, MySQL |
+| **Data Cleaning** | Excel, Power Query |
+| **Version Control** | Git, GitHub |
+| **Others** | Statistics, ETL Concepts, Data Modeling |
+
+---
+
+## 📂 Featured Projects
+- 📊 **Sales Dashboard (Power BI)** – Analyzed regional performance and KPIs for decision-making  
+- 🧮 **Excel KPI Report** – Automated monthly sales reporting using pivot tables  
+- 🐍 **Python Data Cleaning Script** – Processed and visualized large datasets for analysis  
+- 🗄️ **SQL Insights Project** – Extracted actionable insights from business data using SQL queries  
+
+---
+
+## 📈 GitHub Stats
+![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalikanojiya565-rgb&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+📧 **Email:** [your-email-here@gmail.com]  
+💼 **LinkedIn:** [linkedin.com/in/your-link-here](https://linkedin.com)  
+📊 **Portfolio:** *(Add later if you make one)*  
+
+---
+
+⭐ *"Data is not just numbers; it's the story behind every decision."*
