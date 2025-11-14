@@ -28,7 +28,7 @@ I specialize in turning raw data into clear, meaningful visual stories using mod
 
 ## 📂 Featured Projects
 - 📊 **Sales Dashboard (Power BI)** – Analyzed regional performance and KPIs for decision-making  
-- 🧮 **Excel KPI Report** – Automated monthly sales reporting using pivot tables  
+- 🧮 **Excel KPI Report** – Automated analysis of Restaurant data reporting using pivot tables  
 - 🐍 **Python Data Cleaning Script** – Processed and visualized large datasets for analysis  
 - 🗄️ **SQL Insights Project** – Extracted actionable insights from business data using SQL queries  
 
